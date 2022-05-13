@@ -1,5 +1,5 @@
 # KIM HYEON YONG :sunglasses:
-![Light-HD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-HD&show_icons=true&theme=radical)
+![Light-HD's GitHub stats](https://github-readme-stats.vercel.app/api?username=Light-HD&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdyd1432)](http://solved.ac/gusdyd1432/)
 
 # 🔥: Skills
